@@ -1,5 +1,5 @@
 {
-  "name": "BMW-XMD",
+  "name": "Rash-md",
   "version": "2.0.0",
   "description": "",
   "main": "ibrahim.js",
@@ -12,10 +12,10 @@
   "keywords": [
     "bot",
     "Baileys",
-    "BMW-Md",
+    "rash-Md",
     "whatsapp",
     "whatsapp-bot",
-    "ibrahimadams"
+    "rash"
   ],
   "author": "ibrahimaitech",
   "license": "ISC",
