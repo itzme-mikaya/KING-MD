@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/ibrahimaitech/BMW-MD.git  /root/king
+RUN git clone https://github.com/itzme-mikaya/KING-MD.git  /root/king
 WORKDIR /root/king/
 
 
